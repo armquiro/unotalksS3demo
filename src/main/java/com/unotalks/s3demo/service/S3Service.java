@@ -59,7 +59,6 @@ public class S3Service {
         String result = "";
         try {
 
-            //String bucketName = "uno-talks-s3-bucket";
             String stringObjKeyName = "*** String object key name ***";
 
             // Upload a text string as a new object.
